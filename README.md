@@ -25,6 +25,7 @@ Then add the following line to the parameters of the move_group_node in launch f
 ```
 pilz_planning_pipeline_config,
 ```
+Copy the two files from the pliz_config folder to config folder under ur_moveit_config package. 
 ## Launching the robot
 First the ros2 UR driver has to be launched
 ```
